@@ -13,6 +13,11 @@
 ##### - GOOGLE Servicios
 ##### - WORDPRESS
 
+##PROG.
+##### - JAVA
+##### - POO
+##### - GIT
+
 ##BDA.
 
 ##### - SQL
@@ -20,11 +25,8 @@
 ##### - ORACLE
 
 ##S.O.
-##### INTRO. UBUNTU
-##### WIN. AZURE
-##### ANDROID
+##### - INTRO. UBUNTU
+##### - WIN. AZURE
+##### - ANDROID
 
-##PROG.
-##### JAVA
-##### POO
-##### GIT
+
