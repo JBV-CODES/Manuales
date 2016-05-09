@@ -1,30 +1,30 @@
 # Manuales DesWeb
 
-##*WEB*
+##WEB
 
-#### - HTML
-#### - CSS
-#### - JS
-#### - aJAX
-#### - WEB (DISEÑO, PROMOCION, NEGOCIO)
-#### - PHP (INI, AVANZADO)
-#### - XML (INI, AVANZADO)
-#### - .NET (PLATAFORMA, WEB)
-#### - GOOGLE Servicios
-#### - WORDPRESS
+##### - HTML
+##### - CSS
+##### - JS
+##### - aJAX
+##### - WEB (DISEÑO, PROMOCION, NEGOCIO)
+##### - PHP (INI, AVANZADO)
+##### - XML (INI, AVANZADO)
+##### - .NET (PLATAFORMA, WEB)
+##### - GOOGLE Servicios
+##### - WORDPRESS
 
-##*BDA.*
+##BDA.
 
-#### - SQL
-#### - MySQL
-#### - ORACLE
+##### - SQL
+##### - MySQL
+##### - ORACLE
 
-##*S.O.*
-#### INTRO. UBUNTU
-#### WIN. AZURE
-#### ANDROID
+##S.O.
+##### INTRO. UBUNTU
+##### WIN. AZURE
+##### ANDROID
 
-##*PROG.*
-#### JAVA
-#### POO
-#### GIT
+##PROG.
+##### JAVA
+##### POO
+##### GIT
