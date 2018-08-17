@@ -1,6 +1,6 @@
 # Indice de Manuales DesWeb
 
-##WEB
+## WEB
 
 ##### - 
 ##### - CSS
@@ -13,20 +13,18 @@
 ##### - GOOGLE Servicios
 ##### - WORDPRESS
 
-##PROG.
+## PROG.
 ##### - JAVA
 ##### - POO
 ##### - GIT
 
-##BDA.
+## BDA.
 
 ##### - SQL
 ##### - MySQL
 ##### - ORACLE
 
-##S.O.
+## S.O.
 ##### - INTRO. UBUNTU
 ##### - WIN. AZURE
 ##### - ANDROID
-
-
