@@ -1,11 +1,11 @@
-# Manuales DesWeb
+# Indice de Manuales DesWeb
 
 ##WEB
 
-##### - HTML
+##### - 
 ##### - CSS
 ##### - JS
-##### - aJAX
+##### - AJAX
 ##### - WEB (DISEÑO, PROMOCION, NEGOCIO)
 ##### - PHP (INI, AVANZADO)
 ##### - XML (INI, AVANZADO)
